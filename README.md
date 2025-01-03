@@ -10,9 +10,7 @@
 
 🌱 Currently, I'm a Master's student at IIAU Lab of Dalian University of Technology, under the guidance of Professor Huchuan Lu, and my research direction is autonomous motion planning and visual tracking of robots.
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=Yue-0&exclude_repo=RMUA&card_width=330&layout=pie&langs_count=8&theme=transparent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yue-0&exclude_repo=RMUA&card_width=330&layout=pie&langs_count=8&theme=transparent" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yue-0&exclude_repo=RMUA&card_width=330&layout=compact&langs_count=8&theme=transparent" />
 
 
 

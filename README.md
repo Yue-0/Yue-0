@@ -1,7 +1,3 @@
-## Pinned
-
-[![Eva-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Yue-0&repo=Eva-Tracker&theme=transparent)](https://github.com/Yue-0/Eva-Tracker) [![SF-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Yue-0&repo=SF-Tracker&theme=transparent)](https://github.com/Yue-0/SF-Tracker)
-
 ## About me
 
 👋 Hi, I'm Yue Lin, [here](https://yue-0.github.io) is a brief introduction about me.

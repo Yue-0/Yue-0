@@ -1,6 +1,6 @@
 ## About me
 
-👋 Hi, I'm Yue Lin. I'm from Zhejiang, China.
+👋 Hi, I'm Yue Lin. I'm from Zhejiang, China, [here](https://yue-0.github.io) is a brief introduction about me.
 
 📫 I received my Bachelor of Engineering degree from Dalian University of Technology in 2023, and was recommended for a Master's degree.
 

@@ -2,11 +2,11 @@
 
 👋 Hi, I'm Yue Lin. I'm from Zhejiang, China, [here](https://yue-0.github.io) is a brief introduction about me.
 
-📫 I received my Bachelor of Engineering degree from Dalian University of Technology in 2023, and was recommended for a Master's degree. I graduated from Dalian University of Technology in 2023 with a bachelor's degree in engineering and was subsequently recommended to pursue a master's degree as a graduate student in the IIAU Lab. 
+📫 I graduated from [Dalian University of Technology](https://en.dlut.edu.cn) in 2023 with a bachelor's degree in engineering and was subsequently recommended to pursue a master's degree as a graduate student in the __IIAU Lab__. 
 
-🌱 My supervisor is Professor Huchuan Lu, and my research direction is robot autonomous motion planning and visual tracking.
+🌱 My supervisor is [Professor Huchuan Lu](https://scholar.google.com/citations?user=D3nE0agAAAAJ), and my research direction is robot autonomous motion planning and visual tracking.
 
-🔭 Currently, I’m interning at Hikvision in Hangzhou, where I’m involved in the development of autonomous navigation algorithms for robots.
+🔭 Currently, I’m interning at [Hikvision](https://www.hikvision.com/en/) in Hangzhou, where I’m involved in the development of autonomous navigation algorithms for robots.
 
 ## About my GitHub
 

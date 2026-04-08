@@ -3,8 +3,10 @@
 👋 Hi, I'm Yue Lin. I'm from Zhejiang, China, [here](https://yue-0.github.io) is a brief introduction about me.
 
 📫 I graduated from [Dalian University of Technology](https://en.dlut.edu.cn) in 2023 with a bachelor's degree in engineering and was subsequently recommended to pursue a master's degree as a graduate student in the __IIAU Lab__. 
+<!-- I received my Bachelor of Engineering degree in 2023 and my Master of Engineering degree in 2026 from Dalian University of Technology, under the supervision of Professor Lu Huchuan in the IIAU Laboratory. -->
 
 🌱 My supervisor is [Professor Huchuan Lu](https://scholar.google.com/citations?user=D3nE0agAAAAJ), and my research direction is robot autonomous motion planning and tracking.
+<!-- Currently, I work at Baidu Apollo as an engineer specializing in decision-making and planning algorithms for autonomous vehicles. -->
 
 ## About my GitHub
 
